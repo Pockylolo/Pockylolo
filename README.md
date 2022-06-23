@@ -3,7 +3,7 @@
 📫 How to reach me : Discordo ! My Discord :
 
 <div id="Link" align="center">
-  <a href="discordapp.com/users/755487547701985350">
+  <a href="https://discordapp.com/users/755487547701985350">
   <img src= "https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
