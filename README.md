@@ -10,11 +10,16 @@
 
 ---
 I'm using these languages: <div id="Languages">
-  <img src="https://img.shields.io/badge/C-green" width="20">
-  <img src="https://img.shields.io/badge/Rust-grey" width="40"/>
-  <img src="https://img.shields.io/badge/CSS-blue" width="36"/>
-  <img src="https://img.shields.io/badge/CSharp-green" width="55"/>
-  <img src="https://img.shields.io/badge/Python-red" width="55"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white" width="49"/>
+  <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=Rust&logoColor=white" width="73"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white" width="45"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" width="57"/>
+  <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python&logoColor=white" width="90"/>
+</div>
+
+And these systems: <div id="Systems">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" width="77"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"/>
 </div>
 
 ---
