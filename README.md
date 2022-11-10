@@ -15,6 +15,7 @@ I'm using these languages: <div id="Languages">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white" width="45"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" width="57"/>
   <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python&logoColor=white" width="90"/>
+  <img src="https://img.shields.io/badge/OCaml-yellow?style=for-the-badge&logo=OCaml&logoColor=white" width="83"/>
 </div>
 
 And these systems: <div id="Systems">
